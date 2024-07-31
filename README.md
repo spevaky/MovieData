@@ -30,11 +30,11 @@ The excel file after the data cleaning & preparation process can be downloaded h
 
 ### Results and Findings 
 As an example:
-Best profitable movie was: with Budget of... Box Office Revenue was 102,000,000 USD. The genre of this movie was...
+Best profitable movie was: with Budget of 1,000,000USD. Box Office Revenue was 101,800,000 USD. The genre of this movie was Drama and Horror
 ![Best Prof Movie](https://github.com/spevaky/MovieData/blob/cbc23dfdbd86e6ea52b267a8199bb00f375d5025/Best%20Prof%20Movie.JPG)
 
-The best actor was...
-The best director...
+The best actor was Tom Cruise
+The best director Steve Carell
 ![Movies Data Dashboard](https://github.com/spevaky/MovieData/blob/0759b09e1ffbd7f9c54dbbe9274fffe50a44f21f/Movies%20Data%20Dashboard.jpeg)
 
 ### Challenges in Analysis
