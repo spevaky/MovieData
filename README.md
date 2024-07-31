@@ -22,10 +22,10 @@ In the initial data preparation phase, we performed the following tasks:
  - Data loading and inspection.
  - Handling errors, missing values.
  - Data cleaning and formatting.
-The excel file after the data cleaning & preparation process can be downloaded here - [Movies Data Ready for Dashboard.xlsx](https://github.com/user-attachments/files/16385260/Movies.Data.Ready.for.Dashboard.xlsx)
+The excel file after the data cleaning & preparation process can be downloaded here - [Movies Data Ready for Dashboard.xlsx](https://github.com/spevaky/MovieData/blob/09bf7cecf917d4724468f18d982721acbd8fde72/Movies%20Data%20Ready%20for%20Dashboard.xlsx)
 ### Exploratoty Data Analysis
  - Which genres were the most profitable these years?
- - Which actors were the most successful?...
+ - Which actors were the most successful?
 
 
 ### Results and Findings 
