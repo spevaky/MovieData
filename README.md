@@ -10,11 +10,11 @@ This data analysis project aims to provide insights into the performance and tre
 By analyzing various aspects of the movie data, we seek to identify patterns, make data-driven recommendations, and gain a deeper understanding of the industry's dynamics.
 
 ### Data Sources
-Movie Data : The primary dataset used for this analysis is the "Movie Data Homework.xmls" file, containing detailed information about each movie's performance, actors, directors etc.
+Movie Data : The primary dataset used for this analysis is the "Movie Data Homework.xmls" file, containing detailed information about each movie's performance, actors, directors and more
 [Movies Data Homework.xlsx](https://github.com/spevaky/MovieData/blob/bbf510e2977bf3e4fccc4afcff653b4a66a64674/Movies%20Data%20Homework.xlsx)
 
 ### Tools
- - Power Query - I used Power Query for Data Cleaning
+ - Power Query - I used Power Query for data cleaning and organising
  - Excel, Pivot Tables - I used them for Data Analysis, Creating reports and Visualizations
 
 ### Data Cleaning ad Preparation
