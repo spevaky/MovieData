@@ -50,4 +50,4 @@ We had 2 column for genres, but we needed to combine them and have the same form
                                             }
 ```
 ### Excel Dashboard
-Can be downloaded here [Movies Data Dashboard.xlsx](https://github.com/spevaky/MovieData/blob/be28ac8a6a1363eedd80292c07316aeee0878951/Movies%20Data%20Dashboard.xlsx)
+Can be downloaded here [Movies Data Dashboard.xlsx](https://github.com/spevaky/MovieData/blob/6944f11bc3946ad0a943e40b34830b5e81ea8b40/AANPLdFKQ5qgmO5lWys6_Movies%20Data%20Ready%20for%20Dashboard%20-%20DONE.xlsx)
